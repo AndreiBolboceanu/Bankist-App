@@ -295,3 +295,9 @@ h2 {
 .timer {
   font-weight: 600;
 }
+@media only screen and (max-width: 910px) and (max-height: 410px) {
+
+html {
+  font-size: 31.2%;
+}
+}
